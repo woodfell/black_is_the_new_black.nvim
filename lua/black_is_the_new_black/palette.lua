@@ -1,7 +1,7 @@
 return {
 	dark = {
-		black = "#181a1f",
-		bg0 = "#282c34",
+		black = "#000000",
+		bg0 = "#000000",
 		bg1 = "#31353f",
 		bg2 = "#393f4a",
 		bg3 = "#3b3f4c",
@@ -28,7 +28,7 @@ return {
 		diff_text = "#2c5372",
 	},
 	darker = {
-		black = "#0e1013",
+		black = "#000000",
 		bg0 = "#1f2329",
 		bg1 = "#282c34",
 		bg2 = "#30363f",
@@ -56,7 +56,7 @@ return {
 		diff_text = "#274964",
 	},
 	cool = {
-		black = "#151820",
+		black = "#000000",
 		bg0 = "#242b38",
 		bg1 = "#2d3343",
 		bg2 = "#343e4f",
@@ -84,7 +84,7 @@ return {
 		diff_text = "#265478",
 	},
 	deep = {
-		black = "#0c0e15",
+		black = "#000000",
 		bg0 = "#1a212e",
 		bg1 = "#21283b",
 		bg2 = "#283347",
@@ -112,7 +112,7 @@ return {
 		diff_text = "#1c4a6e",
 	},
 	warm = {
-		black = "#191a1c",
+		black = "#000000",
 		bg0 = "#2c2d30",
 		bg1 = "#35373b",
 		bg2 = "#3e4045",
@@ -140,7 +140,7 @@ return {
 		diff_text = "#32526c",
 	},
 	warmer = {
-		black = "#101012",
+		black = "#000000",
 		bg0 = "#232326",
 		bg1 = "#2c2d31",
 		bg2 = "#35363b",
@@ -168,7 +168,7 @@ return {
 		diff_text = "#2c485f",
 	},
 	light = {
-		black = "#101012",
+		black = "#000000",
 		bg0 = "#fafafa",
 		bg1 = "#f0f0f0",
 		bg2 = "#e6e6e6",
